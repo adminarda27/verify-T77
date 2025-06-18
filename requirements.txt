@@ -1,4 +1,5 @@
 flask
-requests
-python-dotenv
 discord.py
+python-dotenv
+requests
+gunicorn
